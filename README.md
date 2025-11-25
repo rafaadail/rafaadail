@@ -30,8 +30,8 @@
 
 ##  🚀 Frameworks [🔝](#welcome-badges-4-readmemd-profile)
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="Rafa-Symfony" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Symfony" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg">
 </div>
 
 ## Controle de Versionamento
