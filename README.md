@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Rafael<br/>
 ###### Hoje Trabalho como Sênior PHP | Full Stack
-###### Estudando Nodejs e Vuejs
+###### Estudando Python
 
 
 <div align="center">
