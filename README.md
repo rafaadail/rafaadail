@@ -30,8 +30,9 @@
 
 ##  🚀 Frameworks [🔝](#welcome-badges-4-readmemd-profile)
 <div style="display: inline_block"><br>
-  <img align="center" alt="Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="Symfony" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg">
+  <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img align="center" alt="Symfony" src="https://img.shields.io/badge/Symfony-FFFFFF?style=for-the-badge&logo=Symfony&logoColor=black">
+  <img align="center" alt="Slim" src="https://img.shields.io/badge/Slim-719E40?style=for-the-badge&logo=Slim&logoColor=white">
 </div>
 
 ## Controle de Versionamento
